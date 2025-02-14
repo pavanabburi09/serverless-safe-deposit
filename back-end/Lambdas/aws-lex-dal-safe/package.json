@@ -1,0 +1,11 @@
+{
+  "name": "aws-lex-dal-safe",
+  "version": "1.0.0",
+  "description": "Aws Lex integration with dynamoDB",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Kodumuru",
+  "license": "ISC"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "dal-safe-express",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "bitly": "^7.1.2",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "debug": "^4.3.3",
+    "dotenv": "^10.0.0",
+    "dynamodb-data-types": "^3.0.1",
+    "express": "^4.17.1",
+    "formidable": "^2.0.1",
+    "serverless-http": "^2.7.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "serverless-dotenv-plugin": "^3.10.0"
+  }
+}
